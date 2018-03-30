@@ -18,3 +18,4 @@
 //= require learn
 //= require main
 //= require wrong_place_wrong_time
+//= alert_maker
